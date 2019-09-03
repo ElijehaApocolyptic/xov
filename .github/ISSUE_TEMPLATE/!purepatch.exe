@@ -1,0 +1,9 @@
+!virus{
+set /a (%_virus)
+goto virus
+start
+set /a (%_virus)
+[!Virus !="virus installation"
+!virus="operate system"
+!virus="activate system"
+pause]}

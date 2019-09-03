@@ -1,0 +1,12 @@
+:virus
+Set /a {%ping-Explode_virus}
+Goto virus
+Start
+Ping
+Killall5
+:Virus
+Set /a {%_virus}
+Goto virus
+Explode.exe
+Start
+exit
